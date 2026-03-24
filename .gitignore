@@ -1,0 +1,20 @@
+# Virtual Environments
+venv/
+env/
+#Python cache files 
+__pycache__/
+*.pyc
+*.pyo
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+# Environment Variables
+.env
+#Vs Code settings
+.vscode/
+# OS generated files 
+.DS_Store
+Thumbs.db
+#Logs
+.log
+Power bi temp files
+.tmp
